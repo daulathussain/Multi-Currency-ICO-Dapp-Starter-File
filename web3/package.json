@@ -1,0 +1,28 @@
+{
+  "name": "presale-contract",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "compile": "hardhat compile",
+    "deploy-local": "hardhat run scripts/deploy.js --network localhost",
+    "deploy-holesky": "hardhat run scripts/deploy.js --network holesky",
+    "deploy-sepolia": "hardhat run scripts/deploy.js --network sepolia",
+    "deploy-baseSepolia": "hardhat run scripts/deploy.js --network baseSepolia",
+    "deploy-ethereum": "hardhat run scripts/deploy.js --network ethereum",
+    "clear": "rm -rf node_modules package-lock.json cache",
+    "node": "hardhat node"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.13.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.5",
+    "chai": "^4.3.7",
+    "ethereum-waffle": "^3.4.4"
+  }
+}
