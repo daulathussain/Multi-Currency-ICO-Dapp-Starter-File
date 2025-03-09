@@ -24,7 +24,7 @@ Kindly follow the following Instructions to run the project in your system and i
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/j8NO8ea5zVo?si=jCmvfXmpmefwjhO5)
 
 #### Deploying Dapp
 
@@ -37,7 +37,7 @@ Kindly follow the following Instructions to run the project in your system and i
 ```
   WATCH: Setup & Demo Of Project
   Code: https://www.theblockchaincoders.com/sourceCode/multi-currency-ico-dapp-using-next.js-solidity-and-wagmi
-  URL:
+  URL: https://youtu.be/j8NO8ea5zVo?si=jCmvfXmpmefwjhO5
 ```
 
 #### Install Vs Code Editor
@@ -74,7 +74,7 @@ If you download the final source code then you can follow the following instruct
 ```
   WATCH: Setup & Demo Of Project
   URL: https://www.theblockchaincoders.com/sourceCode/multi-currency-ico-dapp-using-next.js-solidity-and-wagmi
-  Video:
+  Video: https://youtu.be/j8NO8ea5zVo?si=jCmvfXmpmefwjhO5
 ```
 
 #### Final Source Code
