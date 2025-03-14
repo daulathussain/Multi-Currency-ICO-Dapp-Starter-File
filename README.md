@@ -1,20 +1,20 @@
-# Multi-Currency ICO Dapp Using Next.js, Solidity & Wagmi
+# Multi-Currency ICO, Staking & Referral System Dapp Using Next.js, Solidity & Wagmi
 
-Build & Deploy Multi-Currency ICO Dapp Using Next.js, Solidity & Wagmi | EVM Blockchain Project
+Build & Deploy Multi-Currency ICO, Staking & Referral System Dapp | Next.js, Solidity & Wagmi | EVM Blockchain
 
-Learn how to build and deploy a Multi-Currency ICO Dapp using Next.js, Solidity, and Wagmi for any EVM-compatible blockchain. This step-by-step project walkthrough covers smart contract development, frontend integration with Wagmi, and seamless deployment. Perfect for developers looking to launch a successful ICO project. 🚀
+In this tutorial, we'll build and deploy a Multi-Currency ICO, Staking, and Referral System Dapp using Next.js, Solidity, and Wagmi on the EVM blockchain. You'll learn how to:
 
-✅ Multi-Currency Support
-✅ Next.js Frontend Integration
-✅ Solidity Smart Contract Development
-✅ Wagmi Provider Setup
-✅ Full Deployment Guide
+✅ Set up a multi-token ICO smart contract
+✅ Implement a staking mechanism for passive rewards
+✅ Build a referral system to incentivize users
+✅ Integrate Wagmi for seamless Web3 interactions
+✅ Deploy the smart contract and frontend
 
-Don't forget to like, share, and subscribe for more Web3 development projects! 🔥 #ICO #Nextjs #Solidity #Wagmi #EVMBlockchain
+Perfect for Web3 developers looking to create an advanced crypto fundraising and staking platform. Don't forget to like, subscribe, and hit the bell icon for more blockchain development content! 🚀💰
 
 ## Project Overview
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2025/03/Multi-Currency-ICO-Dapp-Using-Next.js-Solidity-Wagmi.jpg)
+![alt text](https://www.daulathussain.com/wp-content/uploads/2025/03/Build-Deploy-Multi-Currency-ICO-Staking-Referral-System-Dapp.jpg)
 
 ## Instruction
 
@@ -24,7 +24,7 @@ Kindly follow the following Instructions to run the project in your system and i
 
 #### Setup Video
 
-- [Final Code Setup video](https://youtu.be/j8NO8ea5zVo?si=jCmvfXmpmefwjhO5)
+- [Final Code Setup video](https://youtu.be/-T_qIfAt5c8?si=SAkBhgW5uorOo7pP)
 
 #### Deploying Dapp
 
@@ -60,7 +60,7 @@ Kindly follow the following Instructions to run the project in your system and i
 
 ```
   GET: Project Starter File Download
-  URL: https://www.theblockchaincoders.com/sourceCode/multi-currency-ico-dapp-using-next.js-solidity-and-wagmi
+  URL: https://www.theblockchaincoders.com/SourceCode
 ```
 
 All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
@@ -74,7 +74,7 @@ If you download the final source code then you can follow the following instruct
 ```
   WATCH: Setup & Demo Of Project
   URL: https://www.theblockchaincoders.com/sourceCode/multi-currency-ico-dapp-using-next.js-solidity-and-wagmi
-  Video: https://youtu.be/j8NO8ea5zVo?si=jCmvfXmpmefwjhO5
+  Video: https://youtu.be/-T_qIfAt5c8?si=SAkBhgW5uorOo7pP
 ```
 
 #### Final Source Code
@@ -96,6 +96,20 @@ If you download the final source code then you can follow the following instruct
 ```
   OPEN: PINATA.CLOUD
   URL:https://pinata.cloud/
+```
+
+#### reown
+
+```
+  OPEN: WALLET CONNECT
+  URL: https://docs.reown.com/cloud/relay
+```
+
+#### FORMSPREE
+
+```
+  OPEN: FORMSPREE
+  URL: https://formspree.io/
 ```
 
 #### ALCHEMY
